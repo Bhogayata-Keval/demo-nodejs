@@ -1,0 +1,12 @@
+
+[
+    {
+        "root": "/",
+        "processes": [
+            {
+                "command": "node app.js",
+                "port": "8081"
+            }
+        ]
+    }
+]
