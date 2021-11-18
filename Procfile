@@ -1,1 +1,2 @@
-web: node app.js -p 8081
+web: 	bundle exec thin start -p $PORT
+worker: bundle exec rake jobs:work
