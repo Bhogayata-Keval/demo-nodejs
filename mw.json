@@ -1,12 +1,12 @@
-
-[
-    {
-        "root": "/",
-        "processes": [
-            {
-                "command": "node app.js",
-                "port": "8081"
-            }
-        ]
-    }
-]
+{
+        "services": {
+                "nodeservice1": {
+                    "name": "Node Service 1",
+                    "root_dir": "/",
+                    "build": [],
+                    "command": "node app.js",
+                    "arguments" : [],
+                    "port": "8081"
+                }
+        }
+}
