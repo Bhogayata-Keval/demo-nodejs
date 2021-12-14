@@ -5,7 +5,7 @@
                     "root_dir": "/",
                     "build": "",,
                     "command": "node app.js",
-                    "arguments" : "",
+                    "arguments" : [],
                     "port": "8081"
                 }
         }
