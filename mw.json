@@ -2,7 +2,7 @@
         "services": {
                 "nodeservice1": {
                     "name": "Node Service 1",
-                    "root_dir": "/",
+                    "root_dir": [],
                     "build": [],
                     "command": "node app.js",
                     "arguments" : "",
