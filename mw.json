@@ -3,7 +3,7 @@
                 "nodeservice1": {
                     "name": "Node Service 1",
                     "root_dir": "/",
-                    "build": "",,
+                    "build": [],
                     "command": "node app.js",
                     "arguments" : [],
                     "port": "8081"
