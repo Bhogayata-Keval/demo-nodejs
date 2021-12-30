@@ -4,7 +4,7 @@
                     "name": "Node Service 11",
                     "root_dir": "/",
                     "build": [],
-                    "command": "node app.js",
+                    "command": "node app2.js",
                     "arguments" : [],
                     "port": "8081"
                 }
